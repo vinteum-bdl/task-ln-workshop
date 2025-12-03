@@ -33,4 +33,7 @@ It will open a file explorer pane on the right side of the screen with the files
 There's no Github autograder workflow for this task.
 Everything is done in the repl environment, which includes tests for the proposed exercises.
 
-Once you finish the workshop, please get back to this repo and edit the `submissions/done.sh` so that the CI will notify us.
+Once you finish the workshop, please get back to this repo and edit the `submissions/done.sh`:
+
+1. include the link to your replit fork so that someone can check your work;
+2. change the `"FAIL"` string to 1 `"PASS"` to have the CI notifying us.
