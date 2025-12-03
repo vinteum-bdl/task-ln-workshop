@@ -13,12 +13,12 @@ If you don't have a [replit](https://replit.com) account yet, now is a good time
 Then, go to the [Programming Lightning Workshop](https://replit.com/@austin-f/Programming-Lightning-Intro-to-Payment-Channels-mini?v=1) project page and click `Remix this app`.
 Replit will create a fork of the entire project and you can start working on your own fork of it.
 
-Once the project is opened, you will face a two pane interface.
+Once the project is opened, you will face a two pane interface (or three, if the AI pop up).
 To the left, there will be the tutorial tab that will guide you through explaining how Lightning works and propose some exercises.
-On the left pane, you will have a preview pane (which is useless for this workshop).
+On the right pane, you will have a preview pane (which is useless for this workshop).
 
 The panes are based on tabs, you can click the `+` button the open new tabs in each pane.
-You'll probably need a `Console` tab, which is where you issues commands, including the `./start.sh` script which will setup Rust and Bitcoin Core for your environment.
+You'll probably need a `Shell` tab, which is where you issues commands, including the `./start.sh` script which will setup Rust and Bitcoin Core for your environment.
 
 There's a green "play" button on the top-left area.
 Use it to run the tests and check your progress.
